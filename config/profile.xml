@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <taglib>
+    <name>websiteName</name>
+    <value>此景、哏美</value>
+  </taglib>
+
+  <taglib>
+    <name>author</name>
+    <value>此景、哏美</value>
+  </taglib>
+
+  <taglib>
+    <name>email</name>
+    <value>1172489490@qq.com</value>
+  </taglib>
+
+  <taglib>
+    <name>websiteURL</name>
+    <value>http://www.windsmemory.com</value>
+  </taglib>
+
+  <taglib>
+    <name>logoDesc</name>
+    <value>理想彼端的障碍并非让你放弃！而是得一步一步的来！</value>
+  </taglib>
+
+  <taglib>
+    <name>icp</name>
+    <value>粤ICP备16005832</value>
+  </taglib>
+
+  <taglib>
+    <name>masterIntro</name>
+    <value>活跃于广东省内的某个小县，对于计算机方面，有着剪不断、理还乱的情愫，将来的某天，定会自豪的跟别人说“吾乃攻城狮是也！”</value>
+  </taglib>
+
+  <taglib>
+    <name>websiteIntro</name>
+    <value>从无到有，从有到好，从好到精。从令开始陪伴站主成长，记录建站的点点滴滴，记录了html、css、javascript、php、mysql的学习历程及相关研究、学习笔记、学习手册。这里没有花哨的外衣，没有酷炫的特效，有的，只是对技术的精益求情的无尚追求。希望将来的某天，能一步一脚印，踏上网站开发攻城狮之路。</value>
+  </taglib>
+</root>

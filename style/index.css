@@ -1,0 +1,47 @@
+#main {
+  background-color: #fff;
+}
+
+#main table {
+  margin: 0 auto;
+  width: 95%;
+  text-align: center;
+}
+
+#main table tr {
+  background-color: #fff;
+}
+
+#main table tr:hover {
+  background-color: #ffffcc;
+}
+
+#main table th,
+#main table td {
+  height: 30px;
+  line-height: 30px;
+  color: #333;
+}
+
+#main table th {
+  border-bottom: 1px solid #d5dfe8;
+  background-color: #eef3f7;
+}
+
+#main table td {
+  border-bottom: 1px solid #eee;
+}
+
+#main a {
+  text-decoration: none;
+  color: #3b6ea5;
+}
+
+#main a:hover {
+  text-decoration: underline;
+}
+
+#main .center {
+  padding: 20px;
+  text-align: center;
+}
